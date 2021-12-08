@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<team> 
+    <players>
+        <player number="11" name="Cristiano Ronaldo" position="A1" />
+        <player number="7" name="Mbappe" position="A2" />
+        <player number="30" name="Leo Messi" position="A3" />
+        <player number="6" name="Verratti" position="B1" />
+        <player number="27" name="Gueye" position="B2" />
+        <player number="18" name="Wijnaldum" position="B2" />
+        <player number="14" name="Bernat" position="C1" />
+        <player number="4" name="Ramos" position="C2" />
+        <player number="5" name="Marquinhos" position="C3" />
+        <player number="2" name="Hakimi" position="C4" />
+        <player number="2" name="Hakimi" position="C4" />
+        <player number="50" name="Donnarumma" position="GoalKeeper" />
+    <players/> 
+<team>
